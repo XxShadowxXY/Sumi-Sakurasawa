@@ -10,8 +10,8 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['51955918117', 'Danịel 🇦🇱⁩', true],
-  ['5491122461521'],
+  ['584124172474', 'Manuel 💫⁩', true],
+  ['59175438453'],
   ['524434703586'],
   ['51955918117'],
   ['5491122461521']
@@ -25,9 +25,9 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "Sumi - Sakurasawa",\n     "author": "Danịel",\n   "status_bot": "active"\n }\n}'
-global.wait = '🐢 *Sumi Sakurasawa*'
-global.botname = 'Sumi - Sakurasawa'
+global.author = '{\n "bot": {\n   "name": "Asuna-Yuuki",\n     "author": "Danịel",\n   "status_bot": "active"\n }\n}'
+global.wait = '🐢 *Asuna-Yuuki*'
+global.botname = 'Asuna-Yuuki'
 global.textbot = `Powered By Starlights Team`
 global.listo = '*🍭 Aqui tiene*'
 global.namechannel = '【 ✯ Starlights Team - Oficial Chanel ✰ 】'
