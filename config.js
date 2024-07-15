@@ -26,7 +26,7 @@ global.prems = []
 
 global.packname = ``
 global.author = '{\n "bot": {\n   "name": "Asuna-YuukiBot",\n     "author": "Manuel",\n   "status_bot": "active"\n }\n}'
-global.wait = '🐢 *Sumi Sakurasawa*'
+global.wait = '🐢 *Asuna-Yuuki*'
 global.botname = 'Asuna-Yuuki'
 global.textbot = `Powered By Starlights Team`
 global.listo = '*🍭 Aqui tiene*'
