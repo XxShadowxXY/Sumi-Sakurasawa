@@ -14,7 +14,7 @@ let img = catalogo
 	    externalAdReply: {
 				    showAdAttribution: true,
 					title: botname,
-					body: 'Hola',
+					body: 'Bienvenido a Asuna-YuukiBot',
 					mediaUrl: null,
 					description: null,
 					previewType: "PHOTO",
