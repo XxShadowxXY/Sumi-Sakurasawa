@@ -1,7 +1,7 @@
 <h1 align="center">‧ ⭐ Miku Nakano ⭐ ‧
 </p>
 <p>
-        <img src= "https://tinyurl.com/258rd289">
+        <img src= "https://tinyurl.com/2yhnkma7">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
