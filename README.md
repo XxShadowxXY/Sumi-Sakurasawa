@@ -1,4 +1,4 @@
-<h1 align="center">‧ 🍭 Sumi Sakurasawa - MD 🍭 ‧
+<h1 align="center">‧ ⭐ Miku Nakano ⭐ ‧
 </p>
 <p>
         <img src= "https://tinyurl.com/258rd289">
